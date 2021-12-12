@@ -12,5 +12,5 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build
-        run: hugo --buildDrafts --gc --verbose --minify
+        run: hugo server
 
