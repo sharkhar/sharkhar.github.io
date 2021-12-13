@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "/"
+baseURL = "https://sharkhar.github.io/"
 #"https://sharkhar.github.io/"
 title = "shardul | Portfolio"
 theme = "sharkhar.github.io"
