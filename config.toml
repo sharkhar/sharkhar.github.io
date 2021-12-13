@@ -1,5 +1,6 @@
 ######################## default configuration ####################
-baseURL = "https://sharkhar.github.io/"
+baseURL = "/"
+#"https://sharkhar.github.io/"
 title = "shardul | Portfolio"
 theme = "sharkhar.github.io"
 # post pagination
